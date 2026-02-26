@@ -1,5 +1,5 @@
 include:
-  - board: nrfmicro_11_flipped
+  - board: nrfmicro_11
     shield: corne_left
-  - board: nrfmicro_11_flipped
+  - board: nrfmicro_11
     shield: corne_right
